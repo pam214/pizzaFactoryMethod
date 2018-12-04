@@ -1,2 +1,2 @@
 # pizzaFactoryMethod
-It does something... I think, probably.
+It does something... probably... I think.
